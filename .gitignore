@@ -1,0 +1,7 @@
+.vs/
+CMakeFiles/
+CMakeChache/
+out/
+build/
+external/gf-complete/
+external/jerasure/
