@@ -125,7 +125,7 @@ Distributed under the MIT License. (So do whatever you want with it.)
 <!-- CONTACT -->
 ## Contact
 
-Szepes Márk - m.szepes@azp.hu
+Márk Szepes - m.szepes@azp.hu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
